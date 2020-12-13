@@ -12,7 +12,7 @@ def generate_unique_code():
             break
 
     return code    
-
+ 
 
 
 # Create your models here.
